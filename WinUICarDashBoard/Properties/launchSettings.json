@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUICarDashBoard (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUICarDashBoard (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
